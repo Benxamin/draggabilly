@@ -595,10 +595,10 @@ if ( typeof define === 'function' && define.amd ) {
 } else if ( typeof exports === 'object' ) {
   // CommonJS
   module.exports = draggabillyDefinition(
-    require('desandro-classie'),
-    require('wolfy87-eventemitter'),
+    require('classie'),
+    require('eventemitter'),
     require('eventie'),
-    require('desandro-get-style-property'),
+    require('get-style-property'),
     require('get-size')
   );
 } else {
