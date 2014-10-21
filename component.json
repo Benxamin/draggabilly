@@ -8,7 +8,7 @@
     "desandro/classie": "git+https://github.com/desandro/classie.git",
     "wolfy87/eventemitter": "4.2.9",
     "desandro/eventie": "1.0.5",
-    "desandro/get-style-property": "1.0.4",
+    "desandro/get-style-property": "git+https://github.com/desandro/get-style-property.git",
     "desandro/get-size": "1.1.8"
   },
   "scripts": ["draggabilly.js"],
